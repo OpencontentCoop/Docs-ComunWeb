@@ -9,7 +9,7 @@ Inizia a usare ComunWeb
 Panoramica
 ==========
 
-L'\ |STYLE0|\  di ComunWeb è pensata per \ |STYLE1|\  da parte degli utenti redattori. La maggior parte delle attività di gestione del sito web, infatti, può essere eseguita tramite un’interfaccia che si integra perfettamente nel front-end del sito web, rendendo così la gestione dei contenuti intuitiva, facile da imparare e da utilizzare..
+L'\ |STYLE0|\  di ComunWeb è pensata per \ |STYLE1|\  da parte degli utenti redattori. La maggior parte delle attività di gestione del sito web, infatti, può essere eseguita tramite un’interfaccia che si integra perfettamente nel front-end del sito web, rendendo così la gestione dei contenuti intuitiva, facile da imparare e da utilizzare.
 
 Su ComunWeb ci sono due modalità che permettono di lavorare sui contenuti del sito: l’\ |STYLE2|\  e l’\ |STYLE3|\ .
 
